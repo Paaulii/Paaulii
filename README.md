@@ -1,5 +1,7 @@
 <h1 align="center">🥰 Hello 🥰</h1>
 
+---
+
 <h3 align="left">Skills:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paaulii&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="paaulii" /> </p>
 
