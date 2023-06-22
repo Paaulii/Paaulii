@@ -5,7 +5,7 @@
 <h3 align="left">Skills:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paaulii&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="paaulii" /> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,unreal,kotlin,androidstudio,py,git,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,unreal,kotlin,androidstudio,py,git,swift,js,html,css)](https://skillicons.dev)
 
 ---
 
