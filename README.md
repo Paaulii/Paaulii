@@ -1,11 +1,12 @@
 <h1 align="center">🥰 Hello 🥰</h1>
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paaulii&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paaulii&theme=dark)
 
 <h3 align="left">Skills:</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paaulii&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="paaulii" /> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,unreal,godot,kotlin,androidstudio,py,git,swift,js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp,cs,unity,godot,kotlin,androidstudio,py,git,swift,js,html,css)](https://skillicons.dev)
 
 ---
 
