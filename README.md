@@ -1,23 +1,14 @@
-<h1 align="center">🥰 Hello 🥰</h1>
+# Hi, I'm Paulina 👋🏼
 
----
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paaulii&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paaulii&theme=dark)
+I'm an C++ / C# programmer with 4 years of experience developing games and applications for desktop, mobile and VR/AR platforms. I'm currently focused towards becoming an Unreal Engine Programmer. To read more about experience, skills, projects that I've worked on you can go to  [my portfolio page]() ☺️
 
-<h3 align="left">Skills:</h3>
+## What I'm working on
 
+- **[Multiplayer Coop Roguelike game](https://github.com/Paaulii/ue-game-multiplayer-coop-roguelike)** — I am working on a multiplayer co-op roguelike game (AI, GAS, Networking, Replication, Common UI, MVVM), you can read more about this project on my [portfolio website]() 
 
+## Tech stack
 [![My Skills](https://skillicons.dev/icons?i=unreal,cpp,cs,unity,godot,kotlin,androidstudio,py,git,swift,js,html,css)](https://skillicons.dev)
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/paulina-halatek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicjagruca" height="30" width="40" /></a>
-</p>
-<img src="https://komarev.com/ghpvc/?username=Paaulii&label=Profile%20views&color=0e75b6&style=flat&color=blue" alt="Paaulii" /> </p>
-
-
----
-
-
-
+## Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-00CC00)](https://github.com/Paaulii)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0066FF)](https://github.com/Paaulii](https://www.linkedin.com/in/paulina-halatek/))
