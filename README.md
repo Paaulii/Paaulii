@@ -1,6 +1,6 @@
 # Hi, I'm Paulina 👋🏼
 
-I'm an C++ / C# programmer with 4 years of experience developing games and applications for desktop, mobile and VR/AR platforms. I'm currently focused towards becoming an Unreal Engine Programmer. To read more about my experience, skills, projects that I've worked on you can go to [my portfolio page]() ☺️
+I'm an C++ / C# programmer with 4 years of experience developing games and applications for desktop, mobile and VR/AR platforms. I'm expanding my knowledge in Unreal Engine 5 and C++ by creating my own small projects. To read more about my experience, skills, projects that I've worked on you can go to [my portfolio page]() ☺️
 
 ## What I'm working on
 
