@@ -11,4 +11,4 @@ I'm an C++ / C# programmer with 4 years of experience developing games and appli
 
 ## Connect with me
 [![Portfolio](https://img.shields.io/badge/Portfolio-00CC00)](https://github.com/Paaulii)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0066FF)](https://github.com/Paaulii](https://www.linkedin.com/in/paulina-halatek/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0066FF)](https://www.linkedin.com/in/paulina-halatek/)
